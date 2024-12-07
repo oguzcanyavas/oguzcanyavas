@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there! 👋
+I’m a graduate student and researcher with a deep passion for advancing education through innovative curriculum design and data-driven strategies. Here's a little about me:
 
-<!--
-**oguzcanyavas/oguzcanyavas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏫 Academic Journey
+Ph.D. Candidate in Curriculum and Instruction
+Specializing in:
+Generative AI for EFL teaching
+Enhancing student engagement through digital tools
+Bridging academic English and vocational requirements
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Research Interests
+Vocabulary acquisition in language learning
+AI-powered tools for improving listening and speaking skills
+Comparative education studies
